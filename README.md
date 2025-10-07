@@ -33,6 +33,8 @@ Each `.pkt` file represents a hands-on lab experiment demonstrating different ne
 2. Open .pkt files using Cisco Packet Tracer.
 3. Explore configurations and modify IPs, routes, or topologies as needed.
 
+---
+
 ## 🧠 Learning Outcomes
 
 - **Understanding of IP addressing and subnetting.**
@@ -40,10 +42,14 @@ Each `.pkt` file represents a hands-on lab experiment demonstrating different ne
 - **Familiarity with common network topologies (mesh, ring, etc.)**
 - **Hands-on practice using Cisco Packet Tracer.**
 
+---
+
 ## 📚 Author
 **Rashedul Islam (root-rashed)**
-- Department of Electronic and Telecommunication Engineering (ETE)
+- Department of Computer Science and Engineering (CSE)
 - Passionate about networking, IoT, and embedded systems.
+
+---
 
 ## 📝 License
 This project is open-source under the MIT License
