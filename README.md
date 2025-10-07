@@ -42,8 +42,8 @@ Each `.pkt` file represents a hands-on lab experiment demonstrating different ne
 
 ## 📚 Author
 **Rashedul Islam (root-rashed)**
-Department of Electronic and Telecommunication Engineering (ETE)
-Passionate about networking, IoT, and embedded systems.
+- Department of Electronic and Telecommunication Engineering (ETE)
+- Passionate about networking, IoT, and embedded systems.
 
 ## 📝 License
 This project is open-source under the MIT License
